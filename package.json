@@ -1,0 +1,12 @@
+{
+  "name": "recht-verhogen-naveeg",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings src/control/start.ts",
+    "test": "node src/control/test.ts"
+  },
+  "dependencies": {
+    "@asr-tools/axon-controller": "file:../../../Projecten/asr-tools/packages/axon-controller",
+    "@asr-tools/document-factory": "file:../../../Projecten/asr-tools/packages/document-factory"
+  }
+}
