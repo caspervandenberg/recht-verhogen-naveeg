@@ -3,6 +3,7 @@
   "type": "module",
   "scripts": {
     "start": "node --no-warnings src/control/start.ts",
+    "investigate": "node src/control/tmp-onderzoek-avb.ts",
     "test": "node src/control/test.ts"
   },
   "dependencies": {

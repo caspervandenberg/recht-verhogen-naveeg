@@ -1,0 +1,3185 @@
+[
+  {
+    "polisnummer": "34075527",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52034190",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34085556",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "80104416",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34275733",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51082820",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34293668",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51176106",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34305770",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51232601",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34379331",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51425504",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34557995",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51537223",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34576252",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "51941943",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34622694",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54315150",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34637376",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52395622",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34697100",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52607717",
+    "aantalDekkingen": 4,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      },
+      {
+        "id": "dekAVBBeroepsaansprakelijkheid",
+        "name": "Beroepsaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBBAVMogelijkeActiviteit1Jn",
+          "dekAVBBAVMogelijkeActiviteit2Jn",
+          "dekAVBBAVMogelijkeActiviteit3Jn",
+          "dekAVBBAVEerderMeeverzekerdJn",
+          "dekAVBBAVVerzekerdBedragPerAanspraakLs",
+          "dekAVBMaatwerkFactorBAVStandaardFc",
+          "dekAVBMaatwerkFactorBAVAanpassenJn",
+          "dekAVBMaatwerkFactorBAVToegepastFc",
+          "dekAVBBAVEigenRisicoPerAanspraakBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBBeroepsaansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34702852",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52626545",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34725799",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52712434",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34734529",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "52746051",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34829144",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53834716",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34868364",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53153518",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34920336",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53331102",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "34978583",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53476591",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38044357",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53776808",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38072366",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53617771",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd",
+          "dekAVBEigenRisicoProductaansprakelijkheidBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd",
+          "dekAVBEigenRisicoProductaansprakelijkheidBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38079969",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53904254",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38122620",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "53994164",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38128454",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54017219",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38202346",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54295665",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38211840",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54321514",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38236669",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54363567",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38237398",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54392302",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38239699",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54399081",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38267460",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54471934",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38289578",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54534246",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38294017",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54547262",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38307504",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54589327",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38314379",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54612394",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38315427",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54579733",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38330875",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54671263",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38345408",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54731301",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38352789",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54745636",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38359549",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54776898",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38360091",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54470166",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38362023",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54762197",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38364863",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54818894",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38376585",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54803621",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38421808",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55009575",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38422224",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55019438",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38425227",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55012703",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38425269",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55012077",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38429499",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55014688",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBOmzetOpzichtPromilleToegepastPm"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38429759",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55012213",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38429862",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55010885",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "38431006",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "55018682",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93101755",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "92969134",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93126879",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93126878",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93179511",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "54534246",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": []
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93213418",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93213417",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93233540",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93233539",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93234148",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93234146",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93235236",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93235231",
+    "aantalDekkingen": 3,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "name": "Opzicht",
+        "isDeleted": false,
+        "velden": []
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBOpzicht",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93235385",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93235379",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93236693",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93236689",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93238563",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93238556",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93239946",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93239932",
+    "aantalDekkingen": 1,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd",
+          "dekAVBEigenRisicoBrandExplosieBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93241742",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93241736",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93241759",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93241758",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93241892",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93241891",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93242151",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93242150",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93242482",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93242481",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93325622",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93325621",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93463029",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93463028",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93487754",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93487753",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93696737",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93682241",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "polisnummer": "93911539",
+    "isPackage": false,
+    "productExtId": "aansprakelijkheidVoorBedrijven",
+    "productName": "Aansprakelijkheid voor bedrijven",
+    "status": "active",
+    "packagePolicyExtId": "93911538",
+    "aantalDekkingen": 2,
+    "avbExact": null,
+    "avbAchtig": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "name": "Aansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBAansprakelijkheidEigenRisicoTotaalBd"
+        ]
+      },
+      {
+        "id": "dekAVBWga",
+        "name": "Werkgeversaansprakelijkheid",
+        "isDeleted": false,
+        "velden": [
+          "dekAVBStandaardEigenRisicoSchermBd",
+          "dekAVBWGAEigenRisicoTotaalBd"
+        ]
+      }
+    ],
+    "dekkingen": [
+      {
+        "id": "dekAVBAansprakelijkheid",
+        "type": "Dekking: ",
+        "isDeleted": false
+      },
+      {
+        "id": "dekAVBWga",
+        "type": "Dekking: ",
+        "isDeleted": false
+      }
+    ]
+  }
+]
