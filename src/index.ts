@@ -113,16 +113,39 @@ export default async function verstuurBrief(polisnummer: PolisId, factor: 1.25 |
     }
 
     function checkVerzekerdeBedragen() {
-        const avbDekkingen = polisdetails.policyInstanceCoverageList.find(cov => cov.externalIdentifier === "dekAVBLegAansprakelijkheid");
-
-        assert(avbDekkingen, "Geen AVB-dekking gevonden");
-        const perAanspraak = avbDekkingen.coverageFieldList.find(cov => cov.externalIdentifier === "dekAVBLegAansprakelijkheidBedragAanspraakBd")?.value.value;
-        const perVerzJaar = avbDekkingen.coverageFieldList.find(cov => cov.externalIdentifier === "dekAVBLegAansprakelijkheidBedragVerzekeringsjaarBd")?.value.value;
+        const { perAanspraak, perVerzJaar } = getVerzekerdeBedragen();
 
         assert(perAanspraak && perVerzJaar, "Geen verzekerde som AVB per aanspraak of per verzekeringsjaar gevonden");
         assert(typeof perAanspraak === "number" && typeof perVerzJaar === "number", `Verzekerde som AVB per aanspraak of per verzekeringsjaar is geen number, maar ${typeof perAanspraak} en ${typeof perVerzJaar}`);
 
         assert(perAanspraak <= 1_250_000, `Verzekerde som AVB aanspraak is niet 1.250.000, maar ${perAanspraak}`);
-        assert(perVerzJaar <= 2_500_000, `Verzekerde som AVB per verzekeringsjaar is niet 1.250.000, maar ${perVerzJaar}`);
+        assert(perVerzJaar <= 2_500_000, `Verzekerde som AVB per verzekeringsjaar is niet 2.500.000, maar ${perVerzJaar}`);
+    }
+
+    /**
+     * Legacy (`dekAVBLeg…`): bedragen staan als velden op de dekking.
+     * Nieuw (`dekAVBAansprakelijkheid`): bedragen staan als polisvelden; per aanspraak is een lijstwaarde (string).
+     */
+    function getVerzekerdeBedragen() {
+        const dekkingen = polisdetails.policyInstanceCoverageList;
+
+        const legacy = dekkingen.find(cov => cov.externalIdentifier === "dekAVBLegAansprakelijkheid");
+        if (legacy) {
+            const veld = (id: string) => legacy.coverageFieldList.find(f => f.externalIdentifier === id)?.value.value;
+            return {
+                perAanspraak: veld("dekAVBLegAansprakelijkheidBedragAanspraakBd"),
+                perVerzJaar: veld("dekAVBLegAansprakelijkheidBedragVerzekeringsjaarBd"),
+            };
+        }
+
+        const nieuw = dekkingen.find(cov => cov.externalIdentifier === "dekAVBAansprakelijkheid");
+        assert(nieuw, "Geen AVB-dekking gevonden");
+
+        const veld = (id: string) => polisdetails.policyInstanceFieldList.find(f => f.externalIdentifier === id)?.value.value;
+        const perAanspraak = veld("polAVBVerzekerdBedragLs");
+        return {
+            perAanspraak: typeof perAanspraak === "string" && /^\d+$/.test(perAanspraak) ? Number(perAanspraak) : perAanspraak,
+            perVerzJaar: veld("polAVBVerzekerdBedragPerVerzekeringsjaarBd"),
+        };
     }
 }
